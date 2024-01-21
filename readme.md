@@ -2,7 +2,9 @@
 Welcome to the DIY Macropad Keyboard setup repository! This collection of guides is designed to assist you in setting up a custom macropad keyboard using the DIY Raspberry Pi Pico Programmable Macropad Kits. The following will walk you through the process of setting up and programming your macropads with CircuitPython.
 
 ## Getting Started
-If you don't have a kit already, you can pick one up here: [Raspberry Pi Pico Kit](https://www.tindie.com/products/33114/)
+If you don't have a kit already, you can pick one up here: 
+* [Raspberry Pi Pico Kit | eBay ](https://www.ebay.com/itm/266628455392)
+* [Raspberry Pi Pico Kit | Tindie ](https://www.tindie.com/products/33114/)
 
 After soldering the provided components to the board, proceed with the setup below.
 
